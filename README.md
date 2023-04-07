@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **MERN STACK PROJECTS**
 
-- 🌱 I’m currently learning **The Amazing JS Compiler "Svelte"**
 
-- 👯 I’m looking to collaborate on **Anything U Want**
+
+- 👯 I’m looking to collaborate on **Web Projects**
 
 - 📫 How to reach me **<a href="t.me/abdu_el_rah">Abdu A</a>**
 

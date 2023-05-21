@@ -1,6 +1,6 @@
 ![MasterHead align="center"](https://wallpapercave.com/wp/wp4923981.jpg)
 
-<h1 align="center">YOO 👋 , It's ME Again</h1>
+<h1 align="center">Yo 👋 , It's Me Again</h1>
 
 <img align="right" src="https://assets-global.website-files.com/5f15530648874c5f977e91c2/637ef1f502c0f83324cbf1ad_ABM%20College%20Web%20developer%20main.jpg" alt="coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurahmanab&label=Profile%20views&color=0e75b6&style=flat" alt="abdurahmanab" /> </p>

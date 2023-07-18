@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **MERN STACK PROJECTS**
+- 🔭 I’m currently working on **MySelf**
 
 
 
-- 👯 I’m looking to collaborate on **Web Projects**
+
 
 - 📫 How to reach me **<a href="t.me/abdu_el_rah">Abdu A</a>**
 
@@ -25,6 +25,5 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurahmanab&show_icons=true&locale=en" alt="abdurahmanab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurahmanab&" alt="abdurahmanab" /></p>
